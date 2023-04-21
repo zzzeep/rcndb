@@ -15,7 +15,7 @@
 # vendor/
 
 # binary
-recondb
+rcndb
 
 # database
 **/*.sqlite
