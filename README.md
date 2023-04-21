@@ -1,4 +1,4 @@
-# recondb
+# rcndb
 
 tiny project I wish someone else would have done already
 
